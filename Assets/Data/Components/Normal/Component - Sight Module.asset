@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a11601a8f92cfd45b0da36505c761a5, type: 3}
+  m_Name: Component - Sight Module
+  m_EditorClassIdentifier: 
+  materials:
+  - type: Wood
+    amount: 3
+  componentName: Sight Module
+  componentResult: {fileID: 1101232389696506, guid: a3abc9d5e56737e44bf53ea91e82d466,
+    type: 2}
+  itemData: {fileID: 11400000, guid: 3cc90e72938870948ab8ddf1836c9a76, type: 2}

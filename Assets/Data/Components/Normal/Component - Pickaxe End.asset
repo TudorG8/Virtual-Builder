@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a11601a8f92cfd45b0da36505c761a5, type: 3}
+  m_Name: Component - Pickaxe End
+  m_EditorClassIdentifier: 
+  materials:
+  - type: Wood
+    amount: 2
+  - type: Stone
+    amount: 2
+  componentName: Pickaxe
+  componentResult: {fileID: 1214232399570286, guid: b601504d82b50c544853445ed1b49bca,
+    type: 2}
+  itemData: {fileID: 11400000, guid: a4f22f5a87df64e48892b39a4972613b, type: 2}

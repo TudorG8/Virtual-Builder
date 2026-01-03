@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a11601a8f92cfd45b0da36505c761a5, type: 3}
+  m_Name: Component - Bow End
+  m_EditorClassIdentifier: 
+  materials:
+  - type: Wood
+    amount: 2
+  componentName: Bow End
+  componentResult: {fileID: 1544557827362440, guid: b6d3aaa1042391c40a62c908036b3d6a,
+    type: 2}
+  itemData: {fileID: 11400000, guid: 86c7868ae5e8b9f41a5b2f690d44aba3, type: 2}
